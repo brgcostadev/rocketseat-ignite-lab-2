@@ -2,8 +2,6 @@
 
 ## O desafio consiste em construir uma aplicação completa, do zero, com React JS
 
----
-
 ## Features
 
 - ReactJS
